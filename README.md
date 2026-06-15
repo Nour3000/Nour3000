@@ -4,7 +4,7 @@
 
 ### Élève Ingénieure · Systèmes Embarqués & IoT
 
-**ENSIT Tunis** (majore de promotion) · DevOps Embedded @ **Unistellar**, Marseille
+**ENSIT Tunis** (majore) · DevOps Embedded @ **Unistellar**, Marseille
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aouini--nour-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aouini-nour-bbba91270)
 [![Email](https://img.shields.io/badge/Email-aouininour2003@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aouininour2003@gmail.com)
