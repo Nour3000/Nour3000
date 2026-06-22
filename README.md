@@ -22,7 +22,7 @@ Actuellement chez **Unistellar** (Marseille), je travaille sur le firmware BLE e
 
 ---
 
-### 🛠 Stack
+###  Stack
 
 **Microcontrôleurs & RTOS** &nbsp;
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
@@ -52,9 +52,9 @@ Actuellement chez **Unistellar** (Marseille), je travaille sur le firmware BLE e
 
 ---
 
-### 🌍 Langues
+###  Langues
 
-🇹🇳 Arabe — natif &nbsp;·&nbsp; 🇫🇷 Français — B2 &nbsp;·&nbsp; 🇬🇧 Anglais — B2 &nbsp;·&nbsp; 🇩🇪 Allemand — A2
+🇹🇳 Arabe — natif &nbsp;·&nbsp; 🇫🇷 Français — B2 &nbsp;·&nbsp; 🇬🇧 Anglais — B2(TOEIC) &nbsp;·&nbsp; 🇩🇪 Allemand — A2
 
 ---
 
