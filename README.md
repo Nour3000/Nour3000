@@ -6,7 +6,7 @@
 
 **ENSIT Tunis**  · DevOps Embedded @ **Unistellar**, Marseille
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aouini--nour-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aouini-nour-bbba91270)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aouini--nour-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aouini-nour)
 [![Email](https://img.shields.io/badge/Email-aouininour2003@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aouininour2003@gmail.com)
 ![Location](https://img.shields.io/badge/📍-Marseille,_France-lightgrey?style=flat-square)
 
@@ -47,7 +47,8 @@ Actuellement chez **Unistellar** (Marseille), je travaille sur le firmware BLE e
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=flat&logo=labview&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 ---
