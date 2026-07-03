@@ -16,7 +16,7 @@
 
 I build reliable embedded firmware for resource-constrained systems, from register-level drivers to real-time communication stacks. My work focuses on STM32 microcontrollers, RTOS, BLE, CAN, and embedded Linux, with an emphasis on performance, robustness, and maintainable code.
 
-Currently an Embedded DevOps Intern at Unistellar (Marseille), I contribute to BLE firmware development for the Envision smart telescope and help maintain CI/CD pipelines that ensure software quality and deployment reliability.
+Currently an Embedded DevOps Intern at Unistellar (Marseille), I contribute to BLE firmware development for the Envision smart binoculars and help maintain CI/CD pipelines that ensure software quality and deployment reliability.
 
 > *I write code that runs on hardware with no OS, no second chances, and a handful of kilobytes of RAM.*
 
