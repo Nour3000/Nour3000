@@ -19,7 +19,7 @@ I'm an Embedded Systems Engineering student passionate about building reliable f
 
 I enjoy working close to the hardware—from register-level programming and device drivers to real-time applications and communication protocols. Most of my projects revolve around **STM32**, **RTOS**, **BLE**, **CAN**, and **Embedded Linux**, with a strong focus on writing clean, efficient, and maintainable code.
 
-Currently, I'm an **Embedded DevOps Intern at Unistellar (Marseille)**, where I contribute to the development of BLE firmware for the **Envision smart binoculars** while supporting CI/CD pipelines that improve software quality, testing, and deployment.
+Currently, I'm an Embedded DevOps Intern at Unistellar (Marseille), contributing to firmware development for the Envision smart binoculars, including BLE-related features, while supporting CI/CD pipelines that improve software quality, testing, and deployment.
 
 > *I write code that runs on hardware with no OS, no second chances, and only a handful of kilobytes of RAM.*
 
