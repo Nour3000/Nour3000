@@ -2,9 +2,10 @@
 
 # Nour Aouini
 
-### Élève Ingénieure · Systèmes Embarqués & IoT
+### Embedded Systems Engineering Student · Firmware & IoT
 
-**ENSIT Tunis**  · DevOps Embedded @ **Unistellar**, Marseille
+🎓 **ENSIT Tunis** · 🇫🇷 Erasmus+ Exchange Semester @ **ENSEA, France**  
+💼 Embedded DevOps Intern @ **Unistellar**, Marseille
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aouini--nour-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aouini-nour)
 [![Email](https://img.shields.io/badge/Email-aouininour2003@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aouininour2003@gmail.com)
