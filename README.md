@@ -23,6 +23,8 @@ This summer at Unistellar I set up a GitLab CI pipeline that cross-compiles the 
 
 The summer before, at Sagemcom in Ben Arous, I wrote a small Python (Tkinter) tool to test the UART, RS-232 and RS-485 ports of smart meters and check their Modbus CRC-16 frames. I also followed the production line and its test benches: metrology, SMT and wave soldering.
 
+That same summer, the Ministry of Youth and Sports selected me to teach at the National Academy of Robotics and AI in Tunis. I ran hands-on workshops where young people programmed Arduino boards with sensors and DC motors.
+
 ---
 
 ## Projects
