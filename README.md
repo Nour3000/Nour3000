@@ -21,6 +21,8 @@ Most of what I build runs on STM32: drivers, FreeRTOS or bare-metal firmware, CA
 
 This summer at Unistellar I set up a GitLab CI pipeline that cross-compiles the firmware in Docker and runs the tests on the real board. I also wrote a single IMU driver and a low-power mode for a dual-core STM32H747 under FreeRTOS.
 
+The summer before, at Sagemcom in Ben Arous, I wrote a small Python (Tkinter) tool to test the UART, RS-232 and RS-485 ports of smart meters and check their Modbus CRC-16 frames. I also followed the production line and its test benches: metrology, SMT and wave soldering.
+
 ---
 
 ## Projects
