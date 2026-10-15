@@ -4,7 +4,7 @@
 
 ### Electrical engineering student · Embedded systems & electronics
 
-🎓 **ENSIT, Tunis** — engineering cycle  and Master 2 SIAA  
+🎓 **ENSIT, Tunis** — engineering cycle and Master 2 SIAA  
 💼 Embedded DevOps intern at **Unistellar**, Marseille (May – Aug 2026)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aouini--nour-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aouini-nour)
