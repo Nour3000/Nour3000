@@ -31,6 +31,7 @@ That same summer, the Ministry of Youth and Sports selected me to teach at the N
 
 | Project | What it does | Stack |
 |---|---|---|
+| [bldc4-foc-controller](https://github.com/Nour3000/bldc4-foc-controller) | Field-oriented control board for four brushless motors, commanded over CAN FD. Control firmware tested in C and in Simulink against a motor model; 6-layer PCB in Altium. In progress. | STM32G474, C, Simulink, Altium |
 | [capteur-intelligent-3-voies](https://github.com/Nour3000/capteur-intelligent-3-voies) | Three ultrasonic sensors at 0°, 120° and 240°, temperature-compensated distance, filtering and fault detection. Simulated in Proteus, PCB and Gerbers ready. | STM32F103, Proteus, MATLAB |
 | [drone-gesture-control](https://github.com/Nour3000/drone-gesture-control) | Flies a drone with hand gestures. The STM32N6 NPU recognises 7 gestures on-device and sends commands over BLE. Team project at ENSEA. | STM32N6, NPU, FreeRTOS, BLE |
 | [embassy-ensea-drivers](https://github.com/Nour3000/embassy-ensea-drivers) | Async Rust drivers for the ENSEA teaching board: bargraph, gamepad, encoder, TMC2226 stepper. | Rust, Embassy, STM32L476 |
@@ -38,7 +39,7 @@ That same summer, the Ministry of Youth and Sports selected me to teach at the N
 | [can-led-synchronization](https://github.com/Nour3000/can-led-synchronization) | Two boards keep their LEDs in sync over a CAN 2.0 bus, no master. | STM32F407, CAN, MCP2551 |
 | [esp32-smart-lighting](https://github.com/Nour3000/esp32-smart-lighting) | Street-light node that dims with light and motion, with Firebase telemetry. | ESP32, Firebase, Node-RED |
 
-Currently working on a 4-channel motor controller (FOC, CAN) with an STM32G474, designed in Altium and modelled in Simulink.
+Currently working on a [4-channel motor controller](https://github.com/Nour3000/bldc4-foc-controller) (FOC, CAN) with an STM32G474, designed in Altium and modelled in Simulink.
 
 ---
 
